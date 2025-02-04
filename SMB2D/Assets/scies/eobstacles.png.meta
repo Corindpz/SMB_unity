@@ -690,7 +690,7 @@ TextureImporter:
         serializedVersion: 2
         x: 466
         y: 791
-        width: 413
+        width: 229
         height: 233
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4799,28 +4799,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eobstacles_0
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 563
-        width: 224
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c558c1f80b612004782053789dd4112f
-      internalID: -937477194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: eobstacles_62
       rect:
         serializedVersion: 2
@@ -4829,7 +4807,7 @@ TextureImporter:
         width: 227
         height: 232
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4838,6 +4816,50 @@ TextureImporter:
       bones: []
       spriteID: 05a7449c2db67884d8ae4fd29c212db3
       internalID: 1206956834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eobstacles_89
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 903
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ebd1f70d7aeb41943ddab3949a9fc
+      internalID: -1358147404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eobstacles_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 563
+        width: 218
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d186262cb5723643ba1aa48d9abc884
+      internalID: -937477194
       vertices: []
       indices: 
       edges: []
@@ -4858,8 +4880,10 @@ TextureImporter:
     nameFileIdTable:
       eobstacles_0: -937477194
       eobstacles_11: 1008099658
+      eobstacles_126: -1209344090
       eobstacles_56: -532588622
       eobstacles_62: 1206956834
+      eobstacles_89: -1358147404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
